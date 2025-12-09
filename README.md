@@ -1,5 +1,5 @@
 # React + Vite
-Link:
+Link for the working website:
 https://iphone-15-delta-lyart.vercel.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
